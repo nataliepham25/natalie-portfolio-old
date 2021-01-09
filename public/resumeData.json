@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"natalie pham",
+    "occupation":"Software Engineer, Photographer, Student. ",
+    "school": "USC",
+    "description":"With an interest in Cloud Computing, UI/UX Design, and Network Security, I hope to expand my software engineering knowledge.  With a keen interest in photography, I spend my time tinkling with Photoshop and Lightroom while being an avid progammer.",
+    "image":"profilepic.jpg",
+    "bio":"With a passion in Computer Science, I volunteer with non-profit organizations to bring STEM to underprivileged communities. With my previous experience as a coding instructor, I understand the teaching and learning aspect of computer science. By learning how to use the Google Cloud platform, I have developed an interest in cloud computing.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "natalieqpham5@gmail.com",
+    "website": "http://nataliepham25.github.io/natalie-portfolio",
+    "resumedownload":"Natalie_Pham_Resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/natalieephammm/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/natotodoroki",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nataliepham25",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/natsfunphotos",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/nataliepham25",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Add some skills",
+    "education":[
+      {
+        "school":"University of Southern California",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May 2023",
+        "description":"Member of AthenaHacks, Society of Women Engineers, and Vietnamese Student Association."
+      }
+    ],
+    "work":[
+      {
+        "company":"Intel Corporation",
+        "title":"Software Engineering Intern",
+        "years":"January 2021- Present",
+        "description":"Using UNIX System administration, Windows Server, and Client system administration to provide support for infrastructure software and security team"
+      },
+      {
+        "company":"NASA",
+        "title":"Computer Engineering Intern",
+        "years":"August 2020- December 2020",
+        "description":"Assist with mapping technical documentations for the architectural framework of a new aircraft engine project. Validate Model-Based Systems Engineering Pilot models to accurately represent applications with H2ST project "
+      },
+      {
+        "company":"Code Ninjas, Inc",
+        "title":"Lead Coding Instructor",
+        "years":"September 2019- April 2020",
+        "description":"Taught students ages 4-14 to learn how to code and build their own games using Python, Scratch, and Minecraft. Helped create lesson plans to enhance students' learning experience and increase students' interest in programming"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python"
+      },
+      {
+        "name":"C++, C, C#"
+
+      },
+      {
+        "name":"ReactJs"
+       
+      },
+      {
+        "name":"CSS"
+       
+      },
+      {
+        "name":"HTML5"
+        
+      },
+      {
+        "name":"Java"
+        
+      },
+      {
+        "name":"SQL"
+        
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Natalie's Portolio",
+        "category":"Resume Website",
+        "image":"portfolio.png",
+        "url":"http://nataliepham25.github.io/natalie-portfolio"
+      },
+      {
+        "title":"UI/UX Portfolio",
+        "category":"Powered by UX Folio",
+        "image":"resume-website.jpg",
+        "url":"http://uxfol.io/nataliepham525"
+      },
+      {
+        "title":"Monsters Rolodex",
+        "category":"React Based Project Using a Search Engine",
+        "image":"monster-rolodex.jpg",
+        "url":"http://nataliepham25.github.io/monsters-rolodex"
+      },
+      {
+        "title":"Machine Learning: Building a Sentinent Analysis Model",
+        "category":"Amazon Web Servies Machine Learning Udacity Course Project",
+        "image":"amazon.jpg",
+        "url":"https://github.com/nataliepham25/AWS-Machine-Learning"
+      },
+      {
+        "title":"Hacking Lyfe",
+        "category":"First website built through Girls Who Code",
+        "image":"hackinglyfe.png",
+        "url":"http://nataliepham25.github.io/HackingLyfe/HomePage.html"
+      },
+      {
+        "title":"Tetris",
+        "category":"A JavaScript based Tetris website",
+        "image":"tetris.png",
+        "url":"http://nataliepham25.github.io/Tetris-Javascript"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Natalie is one of the most hardworking people I know! From the time I met her in Girls Who Code, she has blossomed and has the grit to be a successful software engineer.",
+        "user":"Megan Zhao - Google Software Engineer"
+      },
+      {
+        "text":"Natalie impressed me at PixelHacks. She interviewed for a women in computing article, she is amazing and will thrive at any company that she works for.",
+        "user":"Connie Chang - LinkedIn Senior Software Engineer"
+      }
+    ]
+  }
+}
