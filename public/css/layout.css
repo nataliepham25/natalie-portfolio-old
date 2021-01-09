@@ -282,7 +282,7 @@ ul#nav li.current a {
   line-height: 30px;
   color: #7a7a7a;
 }
-#about .profile-pic {
+#about .profilepic {
   height: 450px;
   border-radius: 4px;
   border-top: 20px solid #dddddd;
@@ -373,7 +373,7 @@ ul {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #FFFFF0;
+  background: #fffff0;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -1048,7 +1048,7 @@ call-to-action .button {
   margin: 12px 0;
   color: #ebeeee;
   display: inline-block;
-  float:left;
+  float: left;
   width: 26%;
 }
 #contact input,
@@ -1062,7 +1062,7 @@ call-to-action .button {
   outline: none;
   font-size: 12px;
   line-height: 20px;
-  text-align:center;
+  text-align: center;
   width: 55%;
 }
 #contact input:focus,
