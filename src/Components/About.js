@@ -13,6 +13,8 @@ class About extends Component {
 
     return (
       <section id="about">
+      <div className="row">
+      
       <h2 class="subtitle">about me</h2>
       <div className="row" id="img-console">
       <div id="console">
@@ -141,7 +143,7 @@ class About extends Component {
             </div>
             
    
-            
+           </div>
       </section>
    );
   }
