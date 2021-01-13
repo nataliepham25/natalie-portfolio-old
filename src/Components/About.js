@@ -135,10 +135,9 @@ class About extends Component {
       </ul>
             
 
-
-            </div>
-            <img className="profile-pic"  src={profilepic} alt="Natalie Pham Profile Pic" />
-            </div>
+          //  </div>
+        //  <img className="profile-pic"  src={profilepic} alt="Natalie Pham Profile Pic" /> 
+            //</div>
             
    
             
