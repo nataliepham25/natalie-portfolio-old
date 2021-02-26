@@ -139,7 +139,7 @@ class About extends Component {
 
 
             </div>
-            <img className="profilepic"  src={profilepic} alt="Natalie Pham Profile Pic" />
+         <img className="profilepic"  src={`${process.env.PUBLIC_URL}/images/profilepic.JPG`} alt="Natalie Pham Profile Pic" />
             </div>
             
    
