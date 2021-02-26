@@ -5,7 +5,7 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      // var profilepic= process.env.PUBLIC_URL + "images/"+this.props.data.image;
+      var profilepic= process.env.PUBLIC_URL + "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
@@ -135,9 +135,9 @@ class About extends Component {
       </ul>
             
 
-          //  </div>
-        //  <img className="profile-pic"  src={profilepic} alt="Natalie Pham Profile Pic" /> 
-            //</div>
+            </div>
+        <img className="profile-pic"  src={profilepic} alt="Natalie Pham Profile Pic" /> 
+            </div>
             
    
             
